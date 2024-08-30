@@ -1,4 +1,5 @@
 Password Generator by Md Irshad
+
 Overview
 This is a simple yet effective password generator created using HTML, CSS, and JavaScript. The application allows users to generate strong, random passwords based on selected criteria such as length, inclusion of uppercase letters, lowercase letters, numbers, and symbols. Users can also view the history of generated passwords and clear the password history if needed.
 
